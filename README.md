@@ -18,4 +18,9 @@ Install the dependencies and devDependencies and start the server.
 $ git clone https://github.com/Ayushverma8/Xvarsity-Native.git
 $ cd Xvarsity-Native
 ```
+![ss1](https://raw.githubusercontent.com/Ayushverma8/Xvarsity-Native/master/ss1_xvarsity.png?token=AOo3d9b2piQqdubVb4NwiWiNp4iJfRWnks5ZL-SswA%3D%3D)
+![ss2](https://raw.githubusercontent.com/Ayushverma8/Xvarsity-Native/master/ss2_xvarsity.png?token=AOo3d_Yt1btrt02GQhTw5R5xsDcbwkaXks5ZL-TSwA%3D%3D)
+![ss3](https://raw.githubusercontent.com/Ayushverma8/Xvarsity-Native/master/ss3_xvarsity.png?token=AOo3dxiUGADxctTv8mPsQFnpg1WLRhPHks5ZL-TswA%3D%3D)
+
+
 
